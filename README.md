@@ -10,7 +10,7 @@
 
 ## <img src="https://api.iconify.design/lucide/orbit.svg?color=%2358a6ff" height="26" alt="" /> Origin
 
-I'm an Information Technology graduate from **Vidyalankar Institute of Technology, Mumbai** (CGPI 9.6), working at the point where **machine learning meets software engineering**.
+I'm currently pursuing a **B.Tech in Information Technology at Vidyalankar Institute of Technology, Mumbai**, with a CGPI of 9.6, working at the point where **machine learning meets software engineering**.
 
 I like to break a problem down until I understand the principle underneath it, then build the solution from an empty repository: schema first, then pipelines, then models, then something a real person can use. I care about transparent results, so my projects compare models against simple baselines and state their limits openly.
 
